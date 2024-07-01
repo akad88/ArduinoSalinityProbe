@@ -1,1 +1,1 @@
-# ArduinoSalinityProbe
+The Arduino Salinity Conductivity Probe is intended to display the NaCl concentrations of various water samples. The probe acts as a variable resistor in the voltage divider circuit. The outputted voltage is directly proportional to the salt concentration of the water. The Arduino calculates the approximate concentration based on the voltage reading. Both the voltage and concentration are then displayed on the LCD Display. 
